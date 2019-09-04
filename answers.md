@@ -53,4 +53,21 @@ Merge: f132aec 74c6ccb
 Author: Sam Slyder <ss397218@ohio.edu>
 Date:   Wed Sep 4 17:09:22 2019 -0400
 
-# Answer
+# Answer 9
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+# Answer 10
+It doesn't reflect
+
+# Answer 11
+get an error sayin g you cant push because ther is conflicts with the online repo
+
+# Answer 12
+yes the changes were added
+
+# Answer 13
+.  ..  .git  .gitignore  README.md
