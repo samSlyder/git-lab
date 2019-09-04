@@ -36,3 +36,21 @@ Untracked files:
 
  answer.md
 # Answer 6
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to ustage)
+
+    new file: README.md
+    new file: answers.md
+
+# Answer 7
+nothing to commit, working tree clean
+
+# Answer 8
+commit eb6784c14d79d190c5391b6a6aaa1fe4593e636b (HEAD -> master)
+Merge: f132aec 74c6ccb
+Author: Sam Slyder <ss397218@ohio.edu>
+Date:   Wed Sep 4 17:09:22 2019 -0400
+
+# Answer
